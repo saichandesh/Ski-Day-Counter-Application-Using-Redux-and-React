@@ -1,6 +1,6 @@
 # Ski-Day-Counter-Application-Using-Redux-and-React
 
-Ski Day Counter application keep tracks of ski days with resort names, dates and little indicators that let us know whether it was a back-country day or powder day. It also can add days and when we add days we have an auto complete. The user interface components are built using React which make DOM rendering faster by using DOM diffing. The data store for this application is built using Flux and functional programming based design pattern, Redux.
+Ski Day Counter application keep tracks of ski days with resort names, dates and little indicators that let us know whether it was a back-country day or powder day. It also can add days and when we add days we have an auto complete. This application uses React components for UI layer and Flux based design pattern, Redux for the data store. 
 
 ###Main Technologies used are
 > Redux<br/>
